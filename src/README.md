@@ -3,3 +3,4 @@
 приложения разбиты на компоненты
 настроена работа с docker volume
 travis tests
+docker-compose
